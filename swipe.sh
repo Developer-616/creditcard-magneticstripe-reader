@@ -17,9 +17,9 @@
      exdate = " $(echo "$data"|cut -d\^ -f3)"
      exdate = " ${exdate:0:2} / ${exdate:2:2}"
   
-     echo  "Kartennummer: $num"
-     echo  "Karteninhaber: $fname  $lname"
-     echo  "Ablaufdatum: $exdate"
+     echo  "Card number: $num"
+     echo  "Cardholders: $fname  $lname"
+     echo  "Expiry Date: $exdate"
      echo  "----------------------------"
 
 done
