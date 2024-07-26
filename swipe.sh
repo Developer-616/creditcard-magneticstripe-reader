@@ -1,11 +1,11 @@
 #!/bin/bash
 
  clear
- echo  "🤪Herzlich Willkommen beim SCHEIßE Bauen!!!🤪"
+ echo  "🤪Welcome to building SHIT!!!🤪"
  while  [  1  ]
  do
- echo  "Bitte ziehen Sie Ihre Karte durch zum auslesen der Kreditkarten daten🤑:"
- echo  "PS. nur für Magnetstreifen von KreditKarten🫠:"
+ echo  "🤑Please swipe your card to read the credit card details🤑:"
+ echo  "🫠P.S. only for magnetic strips on credit cards🫠:"
      read data
      
      clear
